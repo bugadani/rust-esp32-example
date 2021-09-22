@@ -1,0 +1,13 @@
+{
+    "rust-analyzer.linkedProjects": [
+        {
+            "crates": [
+                {
+                    "root_module": "components/rustlib/Cargo.toml",
+                    "edition": "2018",
+                    "deps": [],
+                },
+            ]
+        }
+    ]
+}
